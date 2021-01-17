@@ -1,0 +1,23 @@
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    border: 0;
+    background-color: white;
+}
+.categories img{
+    width: 100px;
+    border-radius: 500px;
+    
+}
+.panda-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+
+}
+.panda-footer{
+    background-color: #fceae8;
+    
+}
+
+
